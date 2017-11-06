@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Lab39Erik.Models
 {
-    public class MovieConext : DbContext 
+    public class MovieContext : DbContext 
     {
         public MovieContext(DbContextOptions<MovieContext> options)
                 : base(options)
