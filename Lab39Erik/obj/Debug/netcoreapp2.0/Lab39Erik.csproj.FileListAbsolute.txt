@@ -1,0 +1,11 @@
+C:\Users\shop2\source\repos\Lab39-RazorPages\Lab39Erik\bin\Debug\netcoreapp2.0\Lab39Erik.deps.json
+C:\Users\shop2\source\repos\Lab39-RazorPages\Lab39Erik\bin\Debug\netcoreapp2.0\Lab39Erik.runtimeconfig.json
+C:\Users\shop2\source\repos\Lab39-RazorPages\Lab39Erik\bin\Debug\netcoreapp2.0\Lab39Erik.runtimeconfig.dev.json
+C:\Users\shop2\source\repos\Lab39-RazorPages\Lab39Erik\bin\Debug\netcoreapp2.0\Lab39Erik.dll
+C:\Users\shop2\source\repos\Lab39-RazorPages\Lab39Erik\bin\Debug\netcoreapp2.0\Lab39Erik.pdb
+C:\Users\shop2\source\repos\Lab39-RazorPages\Lab39Erik\obj\Debug\netcoreapp2.0\Lab39Erik.csprojResolveAssemblyReference.cache
+C:\Users\shop2\source\repos\Lab39-RazorPages\Lab39Erik\obj\Debug\netcoreapp2.0\Lab39Erik.csproj.CoreCompileInputs.cache
+C:\Users\shop2\source\repos\Lab39-RazorPages\Lab39Erik\obj\Debug\netcoreapp2.0\Lab39Erik.AssemblyInfoInputs.cache
+C:\Users\shop2\source\repos\Lab39-RazorPages\Lab39Erik\obj\Debug\netcoreapp2.0\Lab39Erik.AssemblyInfo.cs
+C:\Users\shop2\source\repos\Lab39-RazorPages\Lab39Erik\obj\Debug\netcoreapp2.0\Lab39Erik.dll
+C:\Users\shop2\source\repos\Lab39-RazorPages\Lab39Erik\obj\Debug\netcoreapp2.0\Lab39Erik.pdb
