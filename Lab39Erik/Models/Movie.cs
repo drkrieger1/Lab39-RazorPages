@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Lab39Erik.Models
 {
     public class Movie
-    {
+    {   //This is the data base movie prperties
         public int ID { get; set; }
 
         [StringLength(60, MinimumLength = 3)]
