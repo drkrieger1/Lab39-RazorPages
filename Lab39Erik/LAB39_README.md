@@ -1,4 +1,5 @@
 ##Your link to your Azure deployed link
+http://lab39erik20171107120818.azurewebsites.net/ 
 
 ##How long did it take you to complete this assignment?
 3hrs
